@@ -1,0 +1,16 @@
+C:\Users\sandr\source\repos\Eksam\Eksam\bin\Debug\Eksam.exe.config
+C:\Users\sandr\source\repos\Eksam\Eksam\bin\Debug\Eksam.exe
+C:\Users\sandr\source\repos\Eksam\Eksam\bin\Debug\Eksam.pdb
+C:\Users\sandr\source\repos\Eksam\Eksam\obj\Debug\Eksam.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\Eksam\Eksam\obj\Debug\Eksam.exe
+C:\Users\sandr\source\repos\Eksam\Eksam\obj\Debug\Eksam.pdb
+C:\Users\sandr\source\repos\Eksam\Eksam\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\sandr\source\repos\Eksam\Eksam\bin\Debug\nunit.engine.dll
+C:\Users\sandr\source\repos\Eksam\Eksam\bin\Debug\nunit.engine.api.dll
+C:\Users\sandr\source\repos\Eksam\Eksam\bin\Debug\Mono.Cecil.dll
+C:\Users\sandr\source\repos\Eksam\Eksam\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\sandr\source\repos\Eksam\Eksam\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\sandr\source\repos\Eksam\Eksam\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\sandr\source\repos\Eksam\Eksam\bin\Debug\nunit.framework.dll
+C:\Users\sandr\source\repos\Eksam\Eksam\bin\Debug\nunit.framework.xml
+C:\Users\sandr\source\repos\Eksam\Eksam\obj\Debug\Eksam.csprojResolveAssemblyReference.cache
